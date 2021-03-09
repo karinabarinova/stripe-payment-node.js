@@ -1,3 +1,3 @@
-## Node.js Stripe Shopping Cart
+# Node.js Stripe Shopping Cart
 
-# Code for setting up Stripe payments with a shopping cart
+## Code for setting up Stripe payments with a shopping cart
